@@ -1,3 +1,3 @@
 # SzyfrCezara
 Implementacja Szyfru Cezara w formie strony WWW z JavaScriptem.
-![image](https://github.com/user-attachments/assets/04a24166-b7c8-417c-9047-b7976a844c30)
+![image](https://github.com/user-attachments/assets/829b48e4-abf5-4cf1-a83e-6e3b1e26b842)
